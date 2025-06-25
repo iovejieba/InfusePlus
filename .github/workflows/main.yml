@@ -5,7 +5,7 @@ on:
     inputs:
 
       ipa_url:
-        description: "URL to the decrypted IPA file"
+        description: "https://3008.filemail.com/api/file/get?filekey=I00vxu4z7ealmznm_vzz0Mw4UcZ4W3GPqpOU4pXwn2eWU4RLlYm2vb3OKeL9Kxma8ohi85MbO1mdpq-vepq4F1SzUGXT3kcmOuvq6j2E&pk_vid=5fe169146b279dee1750849802269a73"
         default: ""
         required: true
         type: string
